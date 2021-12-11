@@ -1,0 +1,23 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bridge:ground_coffee_from_block"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "bridge:ground_coffee_block"
+			}
+		},
+		"result": {
+			"item": "bridge:ground_coffee",
+			"count": 9
+		}
+	}
+}

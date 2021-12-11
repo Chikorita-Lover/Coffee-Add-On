@@ -1,0 +1,40 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"uuid": "4f898ca8-9474-42be-92d5-b1d336c28091",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			17,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "3202d384-b4af-489f-9efe-391d2319d9f6",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"metadata": {
+		"authors": [
+			"Chikorita-Lover"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.1.5"
+			]
+		},
+		"url": "https://github.com/Chikorita-Lover"
+	}
+}

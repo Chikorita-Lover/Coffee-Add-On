@@ -1,0 +1,26 @@
+{
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"coffee_bean_0": {
+			"textures": "textures/blocks/coffee_bean_stage0"
+		},
+		"coffee_bean_1": {
+			"textures": "textures/blocks/coffee_bean_stage1"
+		},
+		"coffee_bean_2": {
+			"textures": "textures/blocks/coffee_bean_stage2"
+		},
+		"coffee_bean_3": {
+			"textures": "textures/blocks/coffee_bean_stage3"
+		},
+		"coffee_bean_block": {
+			"textures": "textures/blocks/coffee_bean_block"
+		},
+		"ground_coffee_block": {
+			"textures": "textures/blocks/ground_coffee_block"
+		}
+	}
+}

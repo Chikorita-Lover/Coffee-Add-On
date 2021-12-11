@@ -1,0 +1,17 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "bridge:ground_coffee_block"
+		},
+		"components": {
+			"minecraft:creative_category": {
+				"category": "construction",
+				"group": "construction"
+			},
+			"minecraft:destroy_time": 0.6,
+			"minecraft:explosion_resistance": 0,
+			"minecraft:map_color": "#4C3223"
+		}
+	}
+}

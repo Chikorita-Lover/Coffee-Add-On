@@ -1,0 +1,12 @@
+item.bridge:coffee_bean=コーヒー豆
+item.bridge:item.coffee_bean=コーヒー豆
+item.bridge:coffee_berries=コーヒーベリー
+item.bridge:coffee_bottle=コーヒーボトル
+item.bridge:ground_coffee=グラウンドコーヒー
+
+pack.name=コーヒーアドオンリソースパック
+pack.description=Twitterで@ChikoritaLによって作成されたコーヒーアドオンブロックとアイテムテクスチャ！
+
+tile.bridge:coffee_bean.name=コーヒー豆
+tile.bridge:coffee_bean_block.name=コーヒー豆のブロック
+tile.bridge:ground_coffee_block.name=挽いたコーヒーブロック

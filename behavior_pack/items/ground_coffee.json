@@ -1,0 +1,17 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "bridge:ground_coffee",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.potionIngredients"
+			},
+			"minecraft:icon": {
+				"texture": "ground_coffee"
+			}
+		}
+	}
+}

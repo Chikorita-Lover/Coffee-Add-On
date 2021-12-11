@@ -1,0 +1,19 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"bridge:coffee_bean_block": {
+		"sound": "wood",
+		"textures": "coffee_bean_block"
+	},
+	"bridge:coffee_bean": {
+		"sound": "sweet_berry_bush",
+		"textures": "coffee_plant_0"
+	},
+	"bridge:ground_coffee_block": {
+		"sound": "gravel",
+		"textures": "ground_coffee_block"
+	}
+}

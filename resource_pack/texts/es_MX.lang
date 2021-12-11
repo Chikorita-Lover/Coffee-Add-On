@@ -1,0 +1,12 @@
+item.bridge:coffee_bean=Grano de café
+item.bridge:item.coffee_bean=Grano de café
+item.bridge:coffee_berries=Bayas de café
+item.bridge:coffee_bottle=Botella de café
+item.bridge:ground_coffee=Café molido
+
+pack.name=Paquete de recursos de complementos de café
+pack.description=¡Las texturas de los bloques y elementos Coffee Add-On, creados por @ChikoritaL en Twitter!
+
+tile.bridge:coffee_bean.name=Grano de café
+tile.bridge:coffee_bean_block.name=Bloque de granos de café
+tile.bridge:ground_coffee_block.name=Bloque de café molido

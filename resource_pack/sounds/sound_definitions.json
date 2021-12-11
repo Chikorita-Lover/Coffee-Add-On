@@ -1,0 +1,12 @@
+{
+    "format_version": "1.14.0",
+    "sound_definitions": {
+        "pick_berries.coffee_bean": {
+            "category": "block",
+            "sounds": [
+                "sounds/block/coffee_bean/pick_from_bush1",
+                "sounds/block/coffee_bean/pick_from_bush2"
+            ]
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_brewing_container": {
+		"description": {
+			"identifier": "bridge:brew_coffee_bottle"
+		},
+		"tags": [
+			"brewing_stand"
+		],
+		"input": "minecraft:potion:1",
+		"reagent": "bridge:ground_coffee",
+		"output": "bridge:coffee_bottle"
+	}
+}
