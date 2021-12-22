@@ -11,8 +11,8 @@
 		],
 		"min_engine_version": [
 			1,
-			16,
-			100
+			18,
+			0
 		]
 	},
 	"modules": [
@@ -45,6 +45,6 @@
 				"2.1.5"
 			]
 		},
-		"url": "https://github.com/Chikorita-Lover"
+		"url": "https://github.com/Chikorita-Lover/Coffee-Add-On"
 	}
 }
