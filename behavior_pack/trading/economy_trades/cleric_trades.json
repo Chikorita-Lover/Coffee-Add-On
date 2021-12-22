@@ -61,7 +61,7 @@
               "wants": [
                 {
                   "item": "bridge:ground_coffee",
-                  "quantity": 2,
+                  "quantity": 1,
                   "price_multiplier": 0.05
                 },
                 {
@@ -73,7 +73,7 @@
               "gives": [
                 {
                   "item": "bridge:coffee_bottle",
-                  "quantity": 2
+                  "quantity": 1
                 }
               ],
               "trader_exp": 10,
