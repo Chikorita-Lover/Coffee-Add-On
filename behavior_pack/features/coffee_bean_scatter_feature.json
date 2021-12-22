@@ -4,7 +4,7 @@
 		"description": {
 			"identifier": "bridge:coffee_bean_scatter_feature"
 		},
-		"iterations": "math.random_integer(4,8)",
+		"iterations": 6,
 		"x": {
 			"extent": [
 				-4,

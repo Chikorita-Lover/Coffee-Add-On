@@ -235,7 +235,7 @@
               "wants": [
                 {
                   "item": "bridge:coffee_bean",
-                  "quantity": 16,
+                  "quantity": 18,
                   "price_multiplier": 0.05
                 }
               ],
