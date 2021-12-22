@@ -1,4 +1,4 @@
-item.bridge:coffee_bean=Kaffeebohne
+item.bridge:coffee_bean.name=Kaffeebohne
 item.bridge:item.coffee_bean=Kaffeebohne
 item.bridge:coffee_berries=Kaffeebeeren
 item.bridge:coffee_bottle=Kaffeeflasche

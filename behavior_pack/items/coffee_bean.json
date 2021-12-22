@@ -1,25 +1,18 @@
 {
-	"format_version": "1.16.100",
+	"format_version": "1.16.0",
 	"minecraft:item": {
 		"description": {
-			"identifier": "bridge:coffee_bean",
-			"category": "nature"
+			"identifier": "bridge:coffee_bean"
 		},
 		"components": {
-			"minecraft:block_placer": {
-				"block": "bridge:coffee_bean",
-				"use_on": [
-					"minecraft:podzol",
-					{
-						"tags": "query.any_tag('dirt','grass')"
-					}
-				]
-			},
-			"minecraft:creative_category": {
-				"parent": "itemGroup.name.seed"
-			},
-			"minecraft:icon": {
-				"texture": "coffee_bean"
+			"minecraft:seed": {
+				"crop_result": "coffee_bean",
+				"plant_at": [
+					"grass",
+					"dirt",
+					"podzol"
+				],
+				"plant_at_face": "UP"
 			}
 		}
 	}

@@ -1,0 +1,13 @@
+{
+	"format_version": "1.10",
+	"minecraft:item": {
+		"description": {
+			"identifier": "bridge:coffee_bean",
+			"category": "Nature"
+		},
+		"components": {
+			"minecraft:icon": "coffee_bean",
+			"minecraft:render_offsets": "seeds"
+		}
+	}
+}

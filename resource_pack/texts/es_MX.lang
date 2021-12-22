@@ -1,4 +1,4 @@
-item.bridge:coffee_bean=Grano de café
+item.bridge:coffee_bean.name=Grano de café
 item.bridge:item.coffee_bean=Grano de café
 item.bridge:coffee_berries=Bayas de café
 item.bridge:coffee_bottle=Botella de café
