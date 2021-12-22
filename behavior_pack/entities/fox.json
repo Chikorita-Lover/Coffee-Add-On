@@ -1,5 +1,5 @@
 {
-	"format_version": "1.16.0",
+	"format_version": "1.17.10",
 	"minecraft:entity": {
 		"description": {
 			"identifier": "minecraft:fox",
@@ -309,12 +309,7 @@
 									},
 									{
 										"test": "is_daytime",
-										"value": false
-									},
-									{
-										"test": "has_tag",
-										"operator": "!=",
-										"value": "caffeinated"
+										"value": true
 									}
 								]
 							},
@@ -329,16 +324,8 @@
 										"value": "thunderstorm"
 									},
 									{
-										"any_of": [
-											{
-												"test": "is_daytime",
-												"value": false
-											},
-											{
-												"test": "has_tag",
-												"value": "caffeinated"
-											}
-										]
+										"test": "is_daytime",
+										"value": false
 									}
 								]
 							},
@@ -364,16 +351,8 @@
 						},
 						{
 							"filters": {
-								"any_of": [
-									{
-										"test": "is_daytime",
-										"value": false
-									},
-									{
-										"test": "has_tag",
-										"value": "caffeinated"
-									}
-								]
+								"test": "is_daytime",
+								"value": false
 							},
 							"event": "minecraft:fox_configure_night"
 						}
@@ -410,6 +389,11 @@
 								"subject": "self",
 								"operator": "!=",
 								"value": "thunderstorm"
+							},
+							{
+								"test": "has_tag",
+								"operator": "!=",
+								"value": "caffeinated"
 							}
 						]
 					},
@@ -938,37 +922,21 @@
 				"triggers": [
 					{
 						"filters": {
-							"any_of": [
-								{
-									"test": "is_daytime",
-									"value": false
-								},
-								{
-									"test": "has_tag",
-									"value": "caffeinated"
-								}
-							]
+							"test": "is_daytime",
+							"value": false
 						},
 						"event": "minecraft:fox_configure_night"
 					},
 					{
 						"filters": {
-							"all_of": [
-								{
-									"test": "is_daytime",
-									"value": false
-								},
-								{
-									"test": "has_tag",
-									"operator": "!=",
-									"value": "caffeinated"
-								}
-							]
+							"test": "is_daytime",
+							"value": true
 						},
 						"event": "minecraft:fox_configure_day"
 					}
 				]
-			}
+			},
+			"minecraft:block_climber": {}
 		},
 		"events": {
 			"minecraft:entity_spawned": {
