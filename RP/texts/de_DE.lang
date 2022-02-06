@@ -1,4 +1,4 @@
-item.bridge:item.coffee_bean=Kaffeebohne
+item.bridge:coffee_beans=Kaffeebohnen
 item.bridge:coffee_berries=Kaffeebeeren
 item.bridge:coffee_bottle=Kaffeeflasche
 item.bridge:ground_coffee=Gemahlenen Kaffee
@@ -6,6 +6,6 @@ item.bridge:ground_coffee=Gemahlenen Kaffee
 pack.name=Kaffee-Add-On-Ressourcenpaket
 pack.description=Die texturen der Kaffee-Add-On blocks and items, erstellt von @ChikoritaL auf Twitter!
 
-tile.bridge:coffee_bean.name=Kaffeebeerenstrauch
+tile.bridge:coffee_shrub.name=Kaffeestrauch
 tile.bridge:coffee_bean_block.name=Kaffeebohnenblock
 tile.bridge:ground_coffee_block.name=Gemahlenen Kaffeeblock
