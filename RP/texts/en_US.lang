@@ -1,0 +1,11 @@
+item.bridge:coffee_beans=Coffee Beans
+item.bridge:coffee_berries=Coffee Berries
+item.bridge:coffee_bottle=Coffee Bottle
+item.bridge:ground_coffee=Ground Coffee
+
+pack.name=Coffee Add-On Resource Pack
+pack.description=The textures of the Coffee Add-On blocks and items, created by @ChikoritaL on Twitter!
+
+tile.bridge:coffee_shrub.name=Coffee Shrub
+tile.bridge:coffee_bean_block.name=Block of Coffee Beans
+tile.bridge:ground_coffee_block.name=Block of Ground Coffee

@@ -1,0 +1,26 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "bridge:coffee_beans",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:block_placer": {
+				"block": "bridge:coffee_shrub",
+				"use_on": [
+					"minecraft:podzol",
+					{
+						"tags": "query.any_tag('dirt','grass')"
+					}
+				]
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.seed"
+			},
+			"minecraft:icon": {
+				"texture": "coffee_beans"
+			}
+		}
+	}
+}

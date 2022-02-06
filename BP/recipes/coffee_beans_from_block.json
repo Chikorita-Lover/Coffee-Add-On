@@ -1,0 +1,23 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bridge:coffee_beans_from_block"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "bridge:coffee_bean_block"
+			}
+		},
+		"result": {
+			"item": "bridge:coffee_beans",
+			"count": 9
+		}
+	}
+}

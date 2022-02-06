@@ -1,0 +1,12 @@
+{
+    "format_version": "1.14.0",
+    "sound_definitions": {
+        "pick_berries.coffee_shrub": {
+            "category": "block",
+            "sounds": [
+                "sounds/block/coffee_shrub/pick_from_shrub1",
+                "sounds/block/coffee_shrub/pick_from_shrub2"
+            ]
+        }
+    }
+}

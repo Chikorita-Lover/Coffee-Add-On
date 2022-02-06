@@ -1,0 +1,20 @@
+{
+	"format_version": "1.13.0",
+	"minecraft:structure_template_feature": {
+		"description": {
+			"identifier": "bridge:coffee_shrub_feature"
+		},
+		"adjustment_radius": 0,
+		"constraints": {
+			"block_intersection": {
+				"block_allowlist": [
+					"minecraft:air"
+				]
+			},
+			"grounded": {},
+			"unburied": {}
+		},
+		"facing_direction": "north",
+		"structure_name": "bridge:coffee_shrub"
+	}
+}

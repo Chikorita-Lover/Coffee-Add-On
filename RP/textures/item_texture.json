@@ -1,0 +1,18 @@
+{
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"coffee_beans": {
+			"textures": "textures/items/coffee_beans"
+		},
+		"coffee_berries": {
+			"textures": "textures/items/coffee_berries"
+		},
+		"coffee_bottle": {
+			"textures": "textures/items/coffee_bottle"
+		},
+		"ground_coffee": {
+			"textures": "textures/items/ground_coffee"
+		}
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"uuid": "4f898ca8-9474-42be-92d5-b1d336c28091",
+		"version": [
+			1,
+			0,
+			1
+		],
+		"min_engine_version": [
+			1,
+			18,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "3202d384-b4af-489f-9efe-391d2319d9f6",
+			"version": [
+				1,
+				0,
+				1
+			]
+		}
+	],
+	"metadata": {
+		"authors": [
+			"Chikorita-Lover"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.1.5",
+				"2.2.1",
+				"2.2.2",
+				"2.2.3",
+				"2.2.4"
+			],
+			"dash": [
+				"0.5.0",
+				"0.5.1",
+				"0.7.0",
+				"0.7.1"
+			]
+		},
+		"url": "https://github.com/Chikorita-Lover/Coffee-Add-On"
+	}
+}

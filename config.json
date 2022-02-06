@@ -1,0 +1,56 @@
+{
+	"type": "minecraftBedrock",
+	"packs": {
+		"behaviorPack": "./BP",
+		"resourcePack": "./RP"
+	},
+	"bridge": {
+		"v1CompatMode": true,
+		"darkTheme": "chikorita_lover.coffee.theme_dark",
+		"lightTheme": "chikorita_lover.coffee.theme"
+	},
+	"authors": [
+		"Chikorita-Lover"
+	],
+	"experimentalGameplay": {
+		"creationOfCustomBiomes": true,
+		"educationEdition": true,
+		"holidayCreatorFeatures": true
+	},
+	"name": "Coffee Add-On",
+	"description": "The files for the Coffee Add-On features, created by @ChikoritaL on Twitter!",
+	"targetVersion": "1.18.0",
+	"namespace": "bridge",
+	"compiler": {
+		"plugins": [
+			"typeScript",
+			"entityIdentifierAlias",
+			[
+				"customEntityComponents",
+				{
+					"v1CompatMode": true
+				}
+			],
+			"customItemComponents",
+			[
+				"customBlockComponents",
+				{
+					"v1CompatMode": true
+				}
+			],
+			"moLang",
+			[
+				"customCommands",
+				{
+					"v1CompatMode": true
+				}
+			],
+			[
+				"simpleRewrite",
+				{
+					"packName": "Coffee Add-On"
+				}
+			]
+		]
+	}
+}
