@@ -149,6 +149,7 @@
 				"flame_odds": 30
 			},
 			"minecraft:geometry": "geometry.coffee_shrub",
+			"minecraft:loot": "loot_tables/blocks/coffee_shrub.json",
 			"minecraft:on_interact": {
 				"event": "on_interact",
 				"target": "self"
