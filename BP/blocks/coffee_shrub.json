@@ -139,7 +139,6 @@
 		],
 		"components": {
 			"minecraft:block_light_absorption": 0,
-			"minecraft:breakonpush": true,
 			"minecraft:breathability": "air",
 			"minecraft:destroy_time": 0,
 			"minecraft:entity_collision": false,
@@ -154,7 +153,6 @@
 				"event": "on_interact",
 				"target": "self"
 			},
-			"minecraft:onlypistonpush": true,
 			"minecraft:placement_filter": {
 				"conditions": [
 					{
