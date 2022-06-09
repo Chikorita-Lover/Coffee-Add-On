@@ -9,10 +9,11 @@
 			"minecraft:block_placer": {
 				"block": "bridge:coffee_shrub",
 				"use_on": [
-					"minecraft:podzol",
-					{
-						"tags": "query.any_tag('dirt','grass')"
-					}
+					"minecraft:dirt",
+					"minecraft:grass",
+					"minecraft:mud",
+					"minecraft:muddy_mangrove_roots",
+					"minecraft:podzol"
 				]
 			},
 			"minecraft:creative_category": {
